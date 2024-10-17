@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CAONGOCMINH442.props" />
+</Project>
